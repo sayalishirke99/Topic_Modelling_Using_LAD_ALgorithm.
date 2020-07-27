@@ -20,5 +20,10 @@ It requires an immense knowledge of R programming . So make sure you are aware o
 It also required basics of Machine Learning. 
 Make sure to brush your basics.
 Here we have also implemented LDA algorithm which is an NLP algorithm.
+After applying all the algorithm . The results were then uploaded on a website which was made using shiny 
+This is how our final analysis looks like.
+
+
+
 
 
