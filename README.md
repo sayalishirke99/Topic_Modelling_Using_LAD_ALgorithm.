@@ -1,4 +1,4 @@
-# Topic_Modelling_Using_LAD_ALgorithm.
+# Topic_Modelling_Using_LDA_ALgorithm.
 This is a  Analysis project  which can be used for any Data Science project, here analysis is done on the twitter data . 
 Here 3 to 4 weeks tweets were collected which was then stored in a readable CSV format.
 The data csv file is uploaded .
