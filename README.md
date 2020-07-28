@@ -23,6 +23,12 @@ Here we have also implemented LDA algorithm which is an NLP algorithm.
 After applying all the algorithm . The results were then uploaded on a website which was made using shiny 
 This is how our final analysis looks like.
 
+![1](https://user-images.githubusercontent.com/57183634/88646715-f92ec680-d0e2-11ea-97a9-1bd8f94343e2.PNG)
+![2](https://user-images.githubusercontent.com/57183634/88646731-fcc24d80-d0e2-11ea-9bea-4fe10a9ff169.PNG)
+![3](https://user-images.githubusercontent.com/57183634/88646734-fd5ae400-d0e2-11ea-911e-db96400fec16.PNG)
+![4](https://user-images.githubusercontent.com/57183634/88646738-fdf37a80-d0e2-11ea-9fb8-9a79984438a3.PNG)
+![5](https://user-images.githubusercontent.com/57183634/88646743-ff24a780-d0e2-11ea-8ece-552c4092e947.PNG)
+
 
 
 
